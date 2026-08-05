@@ -1,0 +1,35 @@
+WIDTH = 600
+HEIGHT = 700
+
+BLOCK_SIZE = 30
+
+
+# Difficulty
+EASY = 8
+HARD = 14
+DIFFICULT = 20
+
+
+# 🎀 Pink Theme
+
+BACKGROUND = (255, 228, 236)
+
+BUTTON = (255, 150, 190)
+
+TEXT = (120, 50, 90)
+
+WHITE = (255,255,255)
+
+
+# 🩵 Snake
+
+SNAKE_BLUE = (130,210,255)
+
+SNAKE_HEAD = (70,170,240)
+
+
+# 🍓 Strawberry
+
+STRAWBERRY_RED = (255,80,120)
+
+LEAF_GREEN = (80,200,100)
